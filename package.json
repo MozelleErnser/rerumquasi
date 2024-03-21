@@ -1,0 +1,32 @@
+{
+  "name": "rerumquasi",
+  "description": "Put mask for the symbols similar to the one in binance \"ETH/BTC\"",
+  "version": "1.0.0",
+  "author": "NathanHilll",
+  "bugs": {
+    "url": "https://github.com/MozelleErnser/rerumquasi.git/issues"
+  },
+  "devDependencies": {
+    "jest": "^23.4.1"
+  },
+  "homepage": "https://github.com/MozelleErnser/rerumquasi.git",
+  "keywords": [
+    "aut",
+    "dolorem",
+    "asperiores",
+    "qui",
+    "cumque",
+    "quaerat",
+    "symbols"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MozelleErnser/rerumquasi.git"
+  },
+  "scripts": {
+    "coverage": "jest --coverage",
+    "test": "jest"
+  }
+}
